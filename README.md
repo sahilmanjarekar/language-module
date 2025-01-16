@@ -1,3 +1,1 @@
-this is a sigle page application.
-developed in flutter.
-In this app the app will shows the user live location and based on the live location the app will shows the language that can be spoken in that state (like maharashtra) and also shows the neighbour states name and shows the language that also spoken in that states.
+This is a single-page application developed using Flutter. The app displays the user's live location and, based on the location, identifies the language(s) spoken in that state (e.g., Maharashtra). Additionally, the app provides the names of neighboring states along with the languages spoken in those states.
